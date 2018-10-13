@@ -1,2 +1,2 @@
 # goNotes
-系统性学习go语言的过程
+Systematic process of learning go language
